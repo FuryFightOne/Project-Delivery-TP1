@@ -13,3 +13,11 @@ The session is nearly finished so speed up a little bit to finish the project
 2
 1
 You're free to go!
+
+Command :
+
+git init
+git clone "link" : add a link between CS code and Github
+git add "file_name" : 
+git commit -m "file_name" : 
+git push
