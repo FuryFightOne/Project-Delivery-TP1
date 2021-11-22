@@ -21,3 +21,8 @@ git clone "link" : add a link between CS code and Github
 git add "file_name" : 
 git commit -m "file_name" : 
 git push
+
+To merge :
+git checkout main (to do something with main)
+git merge Work of Julien (to merge the branch WoJ with main)
+git merge "Work of Julien" --allow-unrelated-histories
