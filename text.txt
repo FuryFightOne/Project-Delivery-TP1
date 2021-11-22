@@ -20,4 +20,6 @@ git init
 git clone "link" : add a link between CS code and Github
 git add "file_name" : 
 git commit -m "file_name" : 
-git push
+git push : to push to master repositery
+
+git fetch : to see if there are new branches
